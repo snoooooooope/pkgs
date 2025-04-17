@@ -1,0 +1,24 @@
+[I] TITLE / SHORT DESCRIPTION HERE
+
+[T] FULL DESCRIPTION GOES HERE, MIND THE END OF YOUR LINES
+[T] MORE TEXT, TEXT, TEXT. TEXT; TEXT: TEXT/ TEXT\
+[T] TEXT TEXT LOREM IPSUM NALUM TACIM APO TUD
+
+[U] PACKAGE URL GOES HERE
+
+[A] <PACKAGE> Authors
+[M] T2 Project <t2@t2-project.org>
+
+[C] extra/base
+[F] CROSS
+
+[L] LICENSE GOES HERE
+[S] Stable
+[V] VERSION
+[P] X -----5---9 344.000
+
+[O] var_append confopt ' ' --with-whatever-option
+[O] var_append makeopt ' ' utils
+[O] var_append makeinstopt ' ' install-utils
+
+[D] <SHA CHECKSUM> <SOURCE FILE> <SOURCE WEB DIR>
