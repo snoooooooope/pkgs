@@ -1,0 +1,31 @@
+[TIMESTAMP] 1745092398 Sat Apr 19 15:53:18 2025
+[BUILDTIME] 4 (9)
+[SIZE] 1.00 MB, 107 files
+
+[DEP] bash
+[DEP] binutils
+[DEP] check
+[DEP] cmake
+[DEP] coreutils
+[DEP] curl
+[DEP] diffutils
+[DEP] fontconfig
+[DEP] freetype
+[DEP] gawk
+[DEP] git
+[DEP] grep
+[DEP] gzip
+[DEP] harfbuzz
+[DEP] linux-header
+[DEP] meson
+[DEP] ninja
+[DEP] openssl
+[DEP] pixman
+[DEP] python
+[DEP] sed
+[DEP] tar
+[DEP] tllist
+[DEP] utf8proc
+[DEP] wayland
+[DEP] wayland-protocols
+[DEP] xkbcommon
