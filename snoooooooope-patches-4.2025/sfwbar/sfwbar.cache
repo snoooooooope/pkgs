@@ -1,7 +1,9 @@
-[TIMESTAMP] 1745111017 Sat Apr 19 21:03:37 2025
-[BUILDTIME] 2 (9)
-[SIZE] 0.13 MB, 11 files
+[TIMESTAMP] 1745110340 Sat Apr 19 20:52:20 2025
+[BUILDTIME] 100 (9)
+[SIZE] 1.24 MB, 203 files
 
+[DEP] alsa-lib
+[DEP] at-spi2-core
 [DEP] bash
 [DEP] binutils
 [DEP] cairo
@@ -10,16 +12,19 @@
 [DEP] diffutils
 [DEP] gawk
 [DEP] gdk-pixbuf
-[DEP] git
 [DEP] glib
 [DEP] grep
+[DEP] gtk+
+[DEP] gtk-layer-shell
 [DEP] gzip
+[DEP] harfbuzz
+[DEP] json-c
 [DEP] linux-header
 [DEP] meson
 [DEP] ninja
 [DEP] openssl
-[DEP] pam
-[DEP] scdoc
+[DEP] pango
+[DEP] pulseaudio
 [DEP] sed
 [DEP] tar
 [DEP] wayland

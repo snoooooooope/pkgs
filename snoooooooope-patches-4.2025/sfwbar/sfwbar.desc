@@ -1,0 +1,19 @@
+[I] A taskbar for wayland compositors
+
+[T] SFWBar (Sway Floating Window Bar) is a flexible taskbar application for
+[T] wayland compositors, designed with a stacking layout in mind.
+[T] Originally developed for Sway, SFWBar will work with any compositors
+[T] supporting layer shell protocol.
+
+[U] https://github.com/LBCrion/sfwbar
+
+[A] Lev Babiev <harley@hosers.org>
+[M] NoTag <notag@t2sde.org>
+
+[C] extra/x11
+
+[L] GPL3
+[S] Stable
+[V] 1.0_beta16
+
+[D] 48fe16fe80f36396d4616f2694f33299a17fdea2dcc3eea0d1650315 sfwbar-1.0_beta16.tar.gz https://github.com/LBCrion/sfwbar/archive/refs/tags/v1.0_beta16/
