@@ -1,0 +1,16 @@
+[I] SteamOS session compositing window manager
+
+[T] gamescope: the micro-compositor formerly known as steamcompmgr.
+
+[U] https://github.com/ValveSoftware/gamescope
+
+[A] Nvidia Corp.
+[M] The T2 project <t2@t2-project.org>
+
+[C] extra/x11
+
+[L] BSD
+[S] Stable
+[V] 3.16.4
+
+[D] 0 gamescope-3.16.4.tar.gz git+https://github.com/ValveSoftware/gamescope.git 3.16.4
