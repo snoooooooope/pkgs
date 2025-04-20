@@ -1,0 +1,20 @@
+[I] General-purpose programming language and toolchain
+
+[T] General-purpose programming language and toolchain for maintaining
+[T] robust, optimal, and reusable software. Beware this is the nightly build
+[T] for the 'zig' package, which is subject to frequent changes.
+
+[U] https://github.com/ziglang/zig
+
+[A] Andrew Kelley
+[M] Rene Rebe <rene@t2-project.org>
+
+[C] extra/development
+[F] CROSS OBJDIR NO-LTO
+
+[L] MIT
+[S] Beta
+[V] 0.15.0
+[P] X ?----5---9 109.300
+
+[D] d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f zig-0.15.0-dev.375+8f8f37fb0.tar.xz https://ziglang.org/builds/
