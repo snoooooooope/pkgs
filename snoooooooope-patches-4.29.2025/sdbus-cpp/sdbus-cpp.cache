@@ -1,0 +1,19 @@
+[TIMESTAMP] 1745941042 Tue Apr 29 11:37:22 2025
+[BUILDTIME] 6 (9)
+[SIZE] 0.83 MB, 44 files
+
+[DEP] bash
+[DEP] basu
+[DEP] binutils
+[DEP] cmake
+[DEP] coreutils
+[DEP] diffutils
+[DEP] gawk
+[DEP] grep
+[DEP] gzip
+[DEP] linux-header
+[DEP] make
+[DEP] pkgconfig
+[DEP] sed
+[DEP] tar
+[DEP] tbb

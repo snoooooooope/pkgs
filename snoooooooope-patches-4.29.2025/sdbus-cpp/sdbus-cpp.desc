@@ -1,0 +1,22 @@
+[I] High-level C++ D-Bus library for Linux designed to provide easy-to-use yet powerful API in modern C++ 
+
+[T] sdbus-c++ has been written primarily as a replacement of dbus-c++,
+[T] which currently suffers from a number of (unresolved) bugs, concurrency issues and inherent design complexities and limitations.
+[T] Even though sdbus-c++ uses sd-bus library, it is not necessarily constrained to systemd and can perfectly be used in non-systemd environments as well.
+
+[U] https://github.com/Kistler-Group/sdbus-cpp
+
+[A] sdbus-cpp Authors
+[M] T2 Project <t2@t2-project.org>
+
+[C] extra/base
+[F] CROSS
+
+[L] LGPL
+[S] Stable
+[V] 2.1.0
+[P] X -----5---9 274.000
+
+[O] var_append confopt ' ' -DCMAKE_BUILD_TYPE=Release
+
+[D] 8e2539bab6804f97fb04902a89ef1839ffcf94784093f2a846fad8e4 sdbus-cpp-2.1.0.tar.gz https://github.com/Kistler-Group/sdbus-cpp/archive/refs/tags/v2.1.0/
